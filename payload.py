@@ -11,7 +11,6 @@ import sopel
 import os
 import encodings
 import time
-import urllib2
 import socks
 import urllib2
 import urllib
